@@ -1,3 +1,4 @@
+// L = (ab U aba)^*
 #include<iostream>
 #include<string.h>
 
